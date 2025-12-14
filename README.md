@@ -111,7 +111,7 @@ npm install
 ### Run the Game
 
 ```
-node index.js
+node game.js
 ```
 
 ---
