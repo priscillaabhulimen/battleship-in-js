@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "battleship-in-js",
+  "version": "1.0.0",
+  "description": "<img width=\"150px\" src=\"https://w0244079.github.io/nscc/nscc-jpeg.jpg\" >",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "Priscilla Abhulimen",
+  "license": "ISC"
+}
